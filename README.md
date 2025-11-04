@@ -11,12 +11,12 @@ Dedicated software engineer with a strong foundation in JavaScript, React, Node 
  ---
 
 🛠️ **Tech Stack**
-<span style="color: blue;">`JavaScript`</span> `TypeScript` `React` `Next.js` `MySQL` `Tailwind` `CSS` `Git`
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) `CSS` 
 
 ---
 
 🔗 Let's Connect
-[Gmail](neelamt817@gmail.com) [Linkedin]([url](https://www.linkedin.com/in/neelam-thakur-162a41168/))
+                                                 [Gmail](neelamt817@gmail.com)  [Linkedin]([url](https://www.linkedin.com/in/neelam-thakur-162a41168/))
 
 
  
