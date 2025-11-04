@@ -11,12 +11,12 @@ Dedicated software engineer with a strong foundation in JavaScript, React, Node 
  ---
 
 🛠️ **Tech Stack**
-`JavaScript` `TypeScript` `React` `Next.js` `MySQL` `Tailwind` `CSS` `Git`
+<span style="color: blue;">`JavaScript`</span> `TypeScript` `React` `Next.js` `MySQL` `Tailwind` `CSS` `Git`
 
 ---
 
 🔗 Let's Connect
-`[Gmail](neelamt817@gmail.com)` '[Linkedin]([url](https://www.linkedin.com/in/neelam-thakur-162a41168/))'
+[Gmail](neelamt817@gmail.com) [Linkedin]([url](https://www.linkedin.com/in/neelam-thakur-162a41168/))
 
 
  
